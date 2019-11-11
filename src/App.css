@@ -1,0 +1,22 @@
+body{
+  background-image: url(https://miro.medium.com/max/2732/1*4niISCh1VnarTdqRh-tD2A.jpeg);
+  background-repeat: no-repeat;
+  background-size: 100vw 100vh;
+  margin: 0;
+  padding: 20px;
+}
+#url{
+  margin-top: 10px;
+  width: 100%;
+}
+#but{
+  margin-top: 10px;
+  width: 100%;
+}
+#printapidata{
+  height: 68vh;
+  overflow: scroll;
+  padding: 12px;
+    overflow: scroll;
+    background-color: papayawhip;
+}
